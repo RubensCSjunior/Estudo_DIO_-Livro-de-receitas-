@@ -6,4 +6,5 @@
 		3. Berinjela assada
 		4. Filé com fritas
 		5. Filé com bacon
+		6. Banana frita
 	
