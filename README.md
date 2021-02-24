@@ -1,6 +1,6 @@
-	##		Livro de erceitas
+##		Livro de erceitas
 
-	### Olá!!	bem vind ao meu livro de receitas
+###	bem vind ao meu livro de receitas
 		1. Strogonoff de frango
 		2. Strogonoff de carne
 		3. Berinjela assada
